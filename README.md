@@ -46,7 +46,10 @@ O projeto Contagem Regressiva para o Ano Novo foi desenvolvido utilizando as seg
 
 ### 💡 Veja a Aplicação em Ação!
 
-🔹 Imagem da Interface:
+
+https://github.com/user-attachments/assets/02a05c2e-7b4e-447b-bf27-cfe523ba57c9
+
+
 
 
 ---
